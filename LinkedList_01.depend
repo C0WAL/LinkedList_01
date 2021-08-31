@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630412757 source:c:\users\jakub.kowalczyk\desktop\c++\linkedlist_01\main.cpp
+	"LinkedList_01_lib.h"
+
+1630412651 source:c:\users\jakub.kowalczyk\desktop\c++\linkedlist_01\linkedlist_01_cpp.cpp
+	"LinkedList_01_lib.h"
+
+1630392468 c:\users\jakub.kowalczyk\desktop\c++\linkedlist_01\linkedlist_01_lib.h
+	<iostream>
+
